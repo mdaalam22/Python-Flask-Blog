@@ -1,0 +1,18 @@
+{
+    "params":
+    {
+        "local_server" : "True",
+        "local_uri" : "mysql://root:@localhost/codewithmd",
+        "prod_uri" : "mysql://root:@localhost/codewithmd",
+        "fb_uri" : "https://facebook.com/mdcodeweb",
+        "git_uri" : "https://github.com/mdaalam22",
+        "gmail_user" : "youremail",
+        "gmail_password" : "emailpassword",
+        "about_text" : "Hi! My name is Md. Mobasshir Aalam. I am currently doing BEIT Engineering.This blog is created with a view of providing up to date notes, solutions, question collection , e-book, code to the IT engineering students. The www.mdaalam.com.np is a mission-driven not-for-profit website, a hub which will help you throughout your IT engineering career. Here we aim at providing you with all the useful and needful content of BE-IT engineering.",
+        "no_of_posts" : 2,
+        "login_img" : "login.svg",
+        "admin_username" : "mdaalam22",
+        "admin_password" : "pass",
+        "upload_location" : "D:\\flask\\static"
+    }
+}
